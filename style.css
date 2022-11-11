@@ -1,0 +1,34 @@
+#GameArea {
+    border: 4px solid Green;
+    }
+
+#BackingArea {
+    border: 4px solid blue;
+    po
+} 
+    
+body {
+    
+    color: aqua;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden; /*Hide scroll bars*/
+    
+    /*
+    background: linear-gradient(
+    0deg, 
+    rgb(20, 247, 77) 0%,
+    rgba(0,212,255,1) 100%
+    ); */
+    
+    background-image: url("./Assets/jungle pixel art 3.png");     
+    background-size: 100% 100%;
+    background-position:center; 
+}
+
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(15, 185, 15);
+}
+
