@@ -1,2 +1,2 @@
 # greenblob
-WASD controls in JS
+How to set up basic WASD controls in JS
